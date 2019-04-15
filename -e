@@ -1,0 +1,21 @@
+
+An error occurred while loading ./signup with valid information.
+Failure/Error: load_dependency(file) { result = super }
+
+LoadError:
+  cannot load such file -- /home/tenmind/rails_projects/sample_app/signup with valid information
+# /home/tenmind/.rvm/gems/ruby-2.3.3/gems/activesupport-4.0.4/lib/active_support/dependencies.rb:223:in `load'
+# /home/tenmind/.rvm/gems/ruby-2.3.3/gems/activesupport-4.0.4/lib/active_support/dependencies.rb:223:in `block in load'
+# /home/tenmind/.rvm/gems/ruby-2.3.3/gems/activesupport-4.0.4/lib/active_support/dependencies.rb:214:in `load_dependency'
+# /home/tenmind/.rvm/gems/ruby-2.3.3/gems/activesupport-4.0.4/lib/active_support/dependencies.rb:223:in `load'
+
+Randomized with seed 35115
+
+
+1 deprecation warning total
+
+Finished in 0.00029 seconds (files took 1.39 seconds to load)
+0 examples, 0 failures, 1 error occurred outside of examples
+
+Randomized with seed 35115
+
