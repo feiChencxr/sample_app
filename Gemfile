@@ -22,6 +22,7 @@ group :test do
    gem 'rspec-rails'#, '2.13.1'
    gem 'test-unit'
    gem 'factory_girl_rails', '4.2.1'
+   gem 'rspec-its'
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.2'
